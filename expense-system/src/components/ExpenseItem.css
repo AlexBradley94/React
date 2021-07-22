@@ -27,7 +27,7 @@
     color: white;
   }
 
-  .expense-item p {
+  .expense-item .text{
       color: #fff;
   }
   
